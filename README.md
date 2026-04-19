@@ -1,41 +1,53 @@
 # Hi, I'm Swarnima 👋
 
-I'm currently transitioning into Data Science and AI, with a focus on building real-world intelligent systems that are meaningful and impactful.
+Former Product Operations & Analytics professional → transitioning into Machine Learning & Applied AI
+
+I build end-to-end intelligent systems combining data science, LLM engineering, and real-world problem solving, with a focus on meaningful and socially impactful applications.
 
 ---
 
 ## 🚀 Featured Project
 
-### 🐘 Dao💫 — Elephant Knowledge Companion
+### 🐘 Dao💫 — Domain-Specific Elephant Knowledge Assistant
 
-An AI-powered assistant designed to answer questions about elephant behavior, ecology, and conservation using a Retrieval-Augmented Generation (RAG) pipeline.
+A production-style **Retrieval-Augmented Generation (RAG) system** designed to transform a general-purpose LLM into a grounded, domain-specific knowledge assistant.
 
-**What makes it interesting:**
-- Built a complete RAG system using ChromaDB and Mistral (via Ollama)
-- Implemented query rewriting to improve retrieval quality
-- Designed conversational memory for follow-up questions
-- Added multilingual support (English + Thai)
-- Built an interactive UI using Streamlit
+**Key Engineering Highlights**
+- End-to-end RAG pipeline with semantic retrieval (ChromaDB)
+- Query rewriting for improved retrieval accuracy
+- Prompt-orchestrated conversational memory & follow-ups
+- Grounded response generation with source attribution
+- Local LLM deployment using Ollama (Llama + Qwen 2.5)
+- Multilingual response pipeline (English → Thai translation)
+- Interactive Streamlit application
 
-👉 [View Project](https://github.com/swarnimar/dao-ai-assistant)
+🔗 **Repository:** [https://github.com/swarnimar/dao-ai-assistant](https://github.com/swarnimar/dao-ai-assistant)
+
+📄 **Architecture & System Design:** [https://github.com/swarnimar/dao-ai-assistant/blob/main/Docs/DAO_SYSTEM.md](https://github.com/swarnimar/dao-ai-assistant/blob/main/Docs/DAO_SYSTEM.md)
 
 ---
 
-## 🧠 What I'm Exploring
+## 🧠 Technical Interests
 
-- Machine Learning & Data Science  
-- Retrieval-Augmented Generation (RAG)  
-- AI system design  
-- Real-world applications of LLMs  
+- Machine Learning Engineering
+- LLM Systems & RAG Architecture
+- Applied AI System Design
+- Intelligent Knowledge Assistants
+
+---
+
+## 🛠 Tech Stack
+
+Python • Streamlit • ChromaDB • Ollama • Llama • Qwen • RAG • Prompt Engineering • Vector Search
 
 ---
 
 ## 🌱 Current Focus
 
-Building projects that combine:
-- strong technical foundations  
-- real-world relevance  
-- thoughtful user experience  
+Designing AI systems that are:
+- technically grounded
+- user-centered
+- socially meaningful
 
 ---
 
@@ -45,4 +57,4 @@ Building projects that combine:
 
 ---
 
-⭐ Always open to learning, building, and meaningful opportunities.
+⭐ Always open to collaboration, learning, and impactful AI opportunities.
